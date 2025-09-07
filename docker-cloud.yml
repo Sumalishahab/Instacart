@@ -1,5 +1,5 @@
 web:
   name: "instacart-mba"
-  image: thiyagaraj/instacart-mba
+  image: sumali/instacart-mba
   ports:
     - "8888"
